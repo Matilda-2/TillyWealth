@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TillyWealth
+- 👋 Hi, I’m @Tilly
 - 👀 I’m interested in ...full stack development
 - 🌱 I’m currently learning ...front end
 - 💞️ I’m looking to collaborate on ...java, html, css, sql and mongodb
